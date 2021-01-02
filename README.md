@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<BR>
-hosting URL: <todo-list-react-muntaha.surge.sh>
+hosting URL: <http://todo-list-react-muntaha.surge.sh>
 
 ## Available Scripts
 
